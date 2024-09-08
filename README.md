@@ -1,18 +1,18 @@
 # Hi there! 👋 I'm Rifki Rusdi Satma Putra
 
 <p align="center">
-  <a href="mailto:rifkirusdisatmaputra@gmail.com">
+  <a href="mailto:dadenkasandi43@mhs.unram.ac.id">
     <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.github.com/RusdyZain/">
+  <a href="https://www.github.com/dadenkasandi08/">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/rifkirusdi30/">
+<!--   <a href="https://www.linkedin.com/in/rifkirusdi30/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/rusdy_zain/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -31,15 +31,15 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RusdyZain&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dadenkasandi08&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RusdyZain&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadenkasandi08&theme=radical" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusdyZain&layout=compact&theme=radical&langs_count=12" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadenkasandi08&layout=compact&theme=radical&langs_count=12" alt="Top Languages">
 </p>
 
 ---
