@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rifki Rusdi Satma Putra
+# Hi there! 👋 I'm Daden Kasandi Putra Wesa
 
 <p align="center">
   <a href="mailto:dadenkasandi43@mhs.unram.ac.id">
@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <strong>"I’m Rifki Rusdi Satma Putra, a web developer with 2 years of experience crafting dynamic and responsive web applications. Over the course of my career, I've had the opportunity to work on a variety of projects, from sleek landing pages to complex, data-driven platforms. My work has consistently focused on delivering seamless user experiences while ensuring that the applications are both scalable and efficient."<strong/>
 </p>
 
@@ -28,7 +28,7 @@
 - 💻 Currently working on my Portfolio Project, where I blend design and code.
 - 🌍 Native Indonesian speaker, and always eager to learn new languages—both spoken and coded!
 - 🎨 Fun fact: I have a knack for picking up new programming languages and technologies, and I enjoy exploring creative design.
-
+-->
 ## 🚀 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dadenkasandi08&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
